@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "89cb7721c5dab2d15673",
+    "revision": "9395867e269d79c28528",
     "url": "/nuntio/static/css/main.661909e3.chunk.css"
   },
   {
-    "revision": "89cb7721c5dab2d15673",
-    "url": "/nuntio/static/js/main.8aa98f00.chunk.js"
+    "revision": "9395867e269d79c28528",
+    "url": "/nuntio/static/js/main.86e7e9e5.chunk.js"
   },
   {
     "revision": "d5336db5d415b1db3c98",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/nuntio/static/media/incorrect.248b888b.mp3"
   },
   {
-    "revision": "f0b86433ecb44b1cc77b72be80d7944e",
+    "revision": "641061324da34ebab02f863df187725c",
     "url": "/nuntio/index.html"
   }
 ];
