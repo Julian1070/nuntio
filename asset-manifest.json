@@ -1,15 +1,15 @@
 {
-  "main.css": "/nuntio/static/css/main.657f0bc3.chunk.css",
-  "main.js": "/nuntio/static/js/main.7c3b7dbc.chunk.js",
-  "main.js.map": "/nuntio/static/js/main.7c3b7dbc.chunk.js.map",
+  "main.css": "/nuntio/static/css/main.661909e3.chunk.css",
+  "main.js": "/nuntio/static/js/main.8aa98f00.chunk.js",
+  "main.js.map": "/nuntio/static/js/main.8aa98f00.chunk.js.map",
   "runtime~main.js": "/nuntio/static/js/runtime~main.75fbe88c.js",
   "runtime~main.js.map": "/nuntio/static/js/runtime~main.75fbe88c.js.map",
   "static/js/2.07f6d3e1.chunk.js": "/nuntio/static/js/2.07f6d3e1.chunk.js",
   "static/js/2.07f6d3e1.chunk.js.map": "/nuntio/static/js/2.07f6d3e1.chunk.js.map",
   "index.html": "/nuntio/index.html",
-  "precache-manifest.2983299bf82f8f8b1d60b3f908586381.js": "/nuntio/precache-manifest.2983299bf82f8f8b1d60b3f908586381.js",
+  "precache-manifest.6384524b90fb46cf0f8c83caed72d64d.js": "/nuntio/precache-manifest.6384524b90fb46cf0f8c83caed72d64d.js",
   "service-worker.js": "/nuntio/service-worker.js",
-  "static/css/main.657f0bc3.chunk.css.map": "/nuntio/static/css/main.657f0bc3.chunk.css.map",
+  "static/css/main.661909e3.chunk.css.map": "/nuntio/static/css/main.661909e3.chunk.css.map",
   "static/media/correct.mp3": "/nuntio/static/media/correct.80da24e4.mp3",
   "static/media/incorrect.mp3": "/nuntio/static/media/incorrect.248b888b.mp3"
 }
