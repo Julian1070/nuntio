@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/nuntio/static/media/incorrect.248b888b.mp3"
   },
   {
-    "revision": "2f2ea3e4f9bde2c5c9e548c364ac2dfb",
+    "revision": "f0b86433ecb44b1cc77b72be80d7944e",
     "url": "/nuntio/index.html"
   }
 ];
